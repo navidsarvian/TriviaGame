@@ -1,0 +1,33 @@
+body{
+	line-height: : 50px;
+	background-color: blue;
+}
+
+
+#good {
+	color: blue;
+}
+
+
+#question {
+	font-size: 30px;
+	text-align: center;
+	/*display: none;*/
+	background-color: blue;
+	color: white;
+
+}
+
+#timer{
+	font-size: 25px;
+	text-align: center;
+}
+
+.wrapper {
+    text-align: center;
+}
+
+.button {
+    position: absolute;
+    top: 50%;
+}
